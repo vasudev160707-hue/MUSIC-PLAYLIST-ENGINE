@@ -136,15 +136,6 @@ Possible future improvements include:
 - Actual audio playback integration
 - Improved playlist recommendations
 
-## 👨‍💻 Team Members
-
-| Name | Student ID |
-|---|---|
-| Vasudev Kansal | 2510990335 |
-| Yuvraj Chhabra | 2510990369 |
-| Krish | 2510990359 |
-| Mehul | 2510990392 |
-
 ## 📄 License
 
 This project is developed for educational and academic purposes.
